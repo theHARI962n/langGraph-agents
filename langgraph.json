@@ -1,0 +1,9 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "0_graph": "./module1/0_grpah_state_str.py:graph",
+        "1_graph": "./module2/1_graph_state_str.py:graph",
+        "2_graph": "./module3/2_graph_state_str.py:graph"
+    },
+    "env": ".env"
+}
