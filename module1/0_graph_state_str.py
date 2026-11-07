@@ -1,5 +1,5 @@
 # importing our lib
-from langchain.graph import StateGraph, START, END
+from langgraph.graph import StateGraph, START, END
 
 #nodes
 def greeting(state:str) ->str:
