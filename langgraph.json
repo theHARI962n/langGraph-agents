@@ -3,7 +3,12 @@
     "graphs": {
         "0_graph": "./module1/0_grpah_state_str.py:graph",
         "1_graph": "./module2/1_graph_state_str.py:graph",
-        "2_graph": "./module3/2_graph_state_str.py:graph"
+        "2_graph": "./module3/2_graph_state_str.py:graph",
+        "3_graph": "./module4/3_graph_state_str.py:graph",
+        "4_graph": "./module5/4_graph_messages_state.py:graph",
+        "5_graph": "./module1/5_graph_model_tool.py:graph",
+        "6_graph": "./module1/6_graph_tool_call.py:graph",
+        "8_graph": "./module1/8_graph_agent.py:graph"  
     },
     "env": ".env"
 }
